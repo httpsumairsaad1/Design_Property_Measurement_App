@@ -1,7 +1,7 @@
 
   # Design Property Measurement App
 
-  This is a code bundle for Design Property Measurement App. The original project is available at https://www.figma.com/design/WyUBvCSJ9KJoFaPb0jRbQE/Design-Property-Measurement-App.
+  This is a code bundle for Design Property Measurement App. The original project is available at https://storm-crit-01960518.figma.site/
 
   ## Running the code
 
